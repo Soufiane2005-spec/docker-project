@@ -94,5 +94,38 @@ Containers successfully communicated inside Docker network ✔
 - Docker volumes (data persistence)
 - Docker networking (container communication)
 - DNS inside Docker
+## 🧩 Task 4 — Docker Compose
+
+### Objective
+Deploy multi-container application using Docker Compose.
+
+### Services
+- Nginx (web server)
+- MySQL (database)
+
+### Features
+- Automatic container creation
+- Shared network
+- Persistent storage using volumes
+
+### Commands used
+- docker compose up -d
+- docker compose down
+- docker ps
+
+### Result
+Application successfully deployed with multiple containers ✔
+## 🎓 Final Conclusion
+
+This project demonstrates full Docker fundamentals:
+
+✔ Container creation and management  
+✔ Custom Docker images  
+✔ Data persistence using volumes  
+✔ Container networking  
+✔ Multi-container orchestration using Docker Compose  
+
+## 🏁 Result
+A complete Docker-based environment was successfully built and tested.
 
 
